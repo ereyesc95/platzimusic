@@ -1,6 +1,6 @@
 <template lang="pug">
 #app.form-group
-	img(src='https://ereyesc95.github.io/platzimusic/dist/logo.png')
+	img(src='dist/logo.png')
 	h1 PlatziMusic
 	select.form-control(v-model="selectedCountry")
 		option(v-for="cou in countries" :value="cou.value") {{cou.name}} <!--No spaces between option and (-->

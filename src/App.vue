@@ -25,12 +25,14 @@ export default {
 				{name:'Finland', value:'finland'},
 				{name:'Norway', value:'norway'},
 				{name:'Netherlands', value:'netherlands'},
+				{name:'Zimbawe', value:'zimbawe'},
 			],
 			selectedCountry:'norway',
 			results:[
 				{value:'10'},
 				{value:'50'},
-				{value:'100'}
+				{value:'100'},
+				{value:'200'},
 			],
 			selectedRes:'10',
 			loading:true

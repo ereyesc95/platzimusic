@@ -1,0 +1,11 @@
+C:\Users\EREYES\Tutorials\Vue\platzimusic\bin\Debug\netcoreapp2.1\platzimusic.deps.json
+C:\Users\EREYES\Tutorials\Vue\platzimusic\bin\Debug\netcoreapp2.1\platzimusic.runtimeconfig.json
+C:\Users\EREYES\Tutorials\Vue\platzimusic\bin\Debug\netcoreapp2.1\platzimusic.runtimeconfig.dev.json
+c:\Users\EREYES\Tutorials\Vue\platzimusic\bin\Debug\netcoreapp2.1\platzimusic.dll
+c:\Users\EREYES\Tutorials\Vue\platzimusic\bin\Debug\netcoreapp2.1\platzimusic.pdb
+c:\Users\EREYES\Tutorials\Vue\platzimusic\obj\Debug\netcoreapp2.1\platzimusic.csprojAssemblyReference.cache
+c:\Users\EREYES\Tutorials\Vue\platzimusic\obj\Debug\netcoreapp2.1\platzimusic.csproj.CoreCompileInputs.cache
+c:\Users\EREYES\Tutorials\Vue\platzimusic\obj\Debug\netcoreapp2.1\platzimusic.AssemblyInfoInputs.cache
+c:\Users\EREYES\Tutorials\Vue\platzimusic\obj\Debug\netcoreapp2.1\platzimusic.AssemblyInfo.cs
+c:\Users\EREYES\Tutorials\Vue\platzimusic\obj\Debug\netcoreapp2.1\platzimusic.dll
+c:\Users\EREYES\Tutorials\Vue\platzimusic\obj\Debug\netcoreapp2.1\platzimusic.pdb

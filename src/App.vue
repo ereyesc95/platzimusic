@@ -25,7 +25,7 @@ export default {
 				{name:'Finland', value:'finland'},
 				{name:'Norway', value:'norway'},
 				{name:'Netherlands', value:'netherlands'},
-				{name:'Zimbawe', value:'zimbawe'},
+				{name:'Zimbabwe', value:'zimbabwe'},
 			],
 			selectedCountry:'norway',
 			results:[
